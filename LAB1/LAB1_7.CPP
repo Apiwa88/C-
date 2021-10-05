@@ -1,0 +1,8 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+       cout <<" THis is structure of " << endl;
+       cout <<"C++ language."<< endl;   
+       return(0);
+}
